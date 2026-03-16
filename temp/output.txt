@@ -1,0 +1,6 @@
+This is a new file created using Python.
+It contains some sample text data.
+This is the third line of the file.
+This is a new file created using Python append .
+It contains some sample text data append.
+This is the third line of the file append.

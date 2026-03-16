@@ -1,0 +1,10 @@
+[
+    {
+        "Server": "nginx",
+        "CPU": 70
+    },
+    {
+        "Server": "redis",
+        "CPU": 90
+    }
+]

@@ -1,0 +1,6 @@
+nginx started
+  redis started
+  mysql started
+  error in hte line
+  no ERROR in the line
+  

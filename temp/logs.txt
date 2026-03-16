@@ -1,0 +1,3 @@
+nginx started
+redis started
+mysql error
